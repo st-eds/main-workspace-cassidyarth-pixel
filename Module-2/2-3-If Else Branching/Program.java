@@ -107,3 +107,6 @@ public class Program {
         }
     }
 }
+
+// Using multiple else if statements instead of multiple if statements ensures you can control what one outcome occurs instead of having to over code in the if clauses
+// The else statement ensures that anything the programmer didn't account for still allows the code to keep moving on instead of erroring out.
